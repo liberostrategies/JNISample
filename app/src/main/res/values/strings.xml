@@ -1,0 +1,11 @@
+<!--
+  ~ Copyright (c) 2017. Libero Strategies, LLC - All Rights Reserved
+  ~ Unauthorized copying of this file, via any medium is strictly prohibited
+  ~ Proprietary and Confidential
+  -->
+
+<resources>
+    <string name="app_name">JNI Sample App</string>
+    <string name="list_title">Triangles Rendered by OpenGL</string>
+    <string name="triangle">Triangle</string>
+</resources>

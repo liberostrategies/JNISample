@@ -17,6 +17,11 @@
         android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
+        android:paddingEnd="@dimen/activity_horizontal_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingStart="@dimen/activity_horizontal_margin"
+        android:textColor="@color/colorInstructions"
         android:background="@color/colorHighlight"
         android:textStyle="italic"/>
 

@@ -13,4 +13,5 @@
     <color name="colorPressed">@color/colorAccent</color>
     <color name="colorHighlight">#FFFFF940</color>
     <color name="colorCardBackground">#878484</color>
+    <color name="colorInstructions">#FFB60808</color>
 </resources>
